@@ -1,0 +1,8 @@
+.idea
+data/alphafold
+data/new_taxdump
+data/output
+
+.ipynb_checkpoints/
+src/caid_paper.ipynb
+ncbi-blast*
